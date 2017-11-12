@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="1345">Pokémon</titulo>
+		<autor>
+			<nombre>Adri</nombre>
+			<nombre>Poveda</nombre>
+		</autor>
+		<editor>hola</editor>
+		<paginas>1998</paginas>
+	</libro>
+</biblioteca>
